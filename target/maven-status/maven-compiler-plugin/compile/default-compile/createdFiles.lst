@@ -1,0 +1,6 @@
+edu\demo\model\Question.class
+edu\demo\main\MainApp.class
+edu\demo\model\QuestionAccessible.class
+edu\demo\model\QuestionArrayAccess.class
+edu\demo\endpoints\QuestionEndpoint.class
+edu\demo\model\QuestionBuilder.class
